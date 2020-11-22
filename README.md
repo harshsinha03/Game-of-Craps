@@ -1,4 +1,4 @@
-# Game-of-Craps
+# Game-of-Craps python
 this is a dice game where when we follow a certain set of instructions and the sum of numbers of rolled dices determine whether you have won or not.
 You roll two six-sided dice, each with faces containing one, two, three,
 four, five and six spots, respectively. When the dice come to rest, the
